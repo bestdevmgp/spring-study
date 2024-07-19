@@ -11,4 +11,3 @@ public interface MemberRepository {
     Optional<Member> findByName(String name);
     List<Member> findAll();
 }
-//test
